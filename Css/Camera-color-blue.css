@@ -1,0 +1,41 @@
+/* Color Theme Blue */
+.option .box,.contact .container form .form-group input,.contact .container form textarea
+{
+    border: 2px solid #599de0
+}
+
+.navbar-default{background: rgb(179, 224, 255)}
+
+.banner{background-color: rgba(179, 224, 255,.4)}
+
+.navbar-default .navbar-toggle{border-color: #599de0}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus
+{background-color: #599de0}
+
+.navbar-default .navbar-toggle .icon-bar{background-color: #fff}
+
+.navbar-default .navbar-brand{color: #fff}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus
+{
+    color: #fff;
+    background-color: #599de0
+}
+
+.first h2{color: #207db9}
+
+.second .container div{background-color: rgba(179, 224, 255,.5);color: #fff}
+
+.third .container .row div h2{color: #5bc0de; text-shadow: 2px 2px 5px #99c4e9}
+
+.fourth .container div{background-color: rgba(179, 224, 255,.5)}
+
+.fifth h2,.contact .container h2{color: #5bc0de}
+
+.fifth i{border: 2px solid #5bc0de}
+
+footer{background-color: #333; color: #fff}
